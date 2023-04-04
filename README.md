@@ -18,11 +18,7 @@ This project is intended to manage a friend's local veterinary and practice reac
 * Vercel
 
 ## Screenshots
-
-![App Screenshot](http://drive.google.com/uc?export=view&id=13q3M0p5_0qepxlsug8RV5PgNq8UITSsL)
-
-![App Screenshot](http://drive.google.com/uc?export=view&id=11nFhKA-dmYnHdMx2IgWLim0XsNodgt2e)
-
+![veterinary](https://user-images.githubusercontent.com/117315116/229665269-71f50248-ac0a-4e67-8acd-57fb023e9c2a.jpg)
 
 ## Used By
 
