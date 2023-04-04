@@ -3,6 +3,11 @@ https://veterinary-react-vercel.vercel.app/
 
 This project is intended to manage a friend's local veterinary and practice react and tailwind skills.
 
+* Components
+* Hooks
+* Props
+* LocalStorage
+* Responsive Design
 
 ## Features
 
