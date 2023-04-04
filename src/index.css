@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bx {
+  font-size: 1.5rem;
+  display: flex;
+  width: max-content;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+  cursor: pointer;
+  transition: animation 0.3s;
+}
+
+.bx-sun:hover {
+  animation: rotate 9s infinite linear;
+}
+
+.bx-moon:hover {
+  animation: smoth .5s infinite linear;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes smoth {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  50% {
+    transform: rotate(15deg);
+  }
+
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+.light {
+  color: whitesmoke;
+}
+
+.dark {
+  color: black;
+}
