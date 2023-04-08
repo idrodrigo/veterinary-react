@@ -34,5 +34,5 @@ This project is used by the following companies:
 
 
 ---
-Made with ❤️ by [Rho](https://github.com/idrodrigo) 😊
+Made with ❤️ by [Rho](https://github.com/idrodrigo) 
 
